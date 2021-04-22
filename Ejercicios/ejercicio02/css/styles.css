@@ -1,0 +1,40 @@
+.bgBlue{
+
+    height: 50px;
+
+    background-color: blue;
+
+}
+
+.bgGreen{
+
+    height: 50px;
+
+    background-color:green;
+
+}
+
+.bgRed{
+
+    height: 50px;
+
+    background-color: red;
+
+}
+
+.bgBlue small{
+
+    height: 25px;
+
+    background-color: blue;
+
+}
+
+.bgRed small{
+
+    height: 25px;
+
+    background-color: red;
+
+}
+
